@@ -34,4 +34,4 @@ To be presented / please follow along
 
 ### 4. Performing a build of an application
 In Eclipse, open up the OpenShift View
-<img src=4_1.png/>
+![Image](4_1.png)
