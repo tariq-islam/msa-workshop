@@ -11,7 +11,7 @@ Today you'll get your feet wet with working with microservices applications in t
 1. Introduction to OpenShift and the CDK
 2. The Eclipse OpenShift Plugin
 3. The OpenShift oc CLI
-4. Performing a build and deployment of an application
+4. Performing a build and deployment of an application ([Lab 1](lab1.md) & [Lab 2](lab2.md))
 5. Discuss the deployment concept
 6. (Optional) CI/CD, webhooks, templates
 
