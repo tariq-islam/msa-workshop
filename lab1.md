@@ -1,4 +1,4 @@
-### 1. Performing a build of an application (IDE)
+# 1. Performing a build and deployment of an application (IDE)
 1. In Eclipse, open up the OpenShift View
 ![Image](4_1.png)
 
@@ -38,3 +38,5 @@
 Your application is running in docker containers, orchestrated as pods by Kubernetes, and delivered as an enterprise platform in OpenShift.
 
 At this point you can navigate the various resources of your deployment in the `Properties` view. If this is not already an open panel in your IDE: `Window >> Show View >> Properties (General)`.
+
+[Back to Main Page](index.md)

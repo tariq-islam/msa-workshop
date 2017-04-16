@@ -1,4 +1,4 @@
-### 2. Performing a build of an application (oc client)
+# 2. Performing a build and deployment of an application (oc client)
 
 1. Perform the following sequence of commands:
 
@@ -50,3 +50,5 @@ oc rsync . <pod name>:/opt/app-root/src --watch
 In Eclipse, make changes to the `image.php` file like commenting out the blue box and uncommenting the green box. Once done, save the file. You'll note in your terminal session that the rsync has sent the changes to the pod.
 
 Now refresh your browser window and you'll see the change.
+
+[Back to Main Page](index.md)
