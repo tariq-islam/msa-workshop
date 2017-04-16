@@ -30,3 +30,9 @@
 12. Take note of the labels on the next screen. Labels are important in OpenShift for a number of reasons! Click `Finish`.
 
 13. A window will open up asking if you would like to import the application's repo that you just deployed. Specify a destination if the default is not desired, and click `Finish`.
+
+14. Right click on the URL that appears under your project and `Show In >> Web Browser` to view your app. Take note of the route URL.
+![Image](4_5.png)
+
+#### Congratulations, you've deployed your application into OpenShift!
+Your application is running in docker containers, orchestrated as pods by Kubernetes, and delivered as an enterprise platform in OpenShift.
