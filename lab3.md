@@ -11,6 +11,9 @@ Looking at your repo branch, you should have a template. Let's open that up (`fo
 1. Edit the template. Look (CTRL+F) for `openshift.example.com`. It'll be near the top under the `parameters` stanza. Change the `parameters.description.value` for `APPLICATION_DOMAIN` to be whatever subdomain your OpenShift instance is using. For the CDK (for our purposes anyway), this is `10.1.2.2.xip.io`.
 ![Image](3_3.png)
 
+2. Confirm that the template points to your branch of the repository by looking at all three Build Configurations in the template. Find (CTRL+F) `BuildConfig`. For each one, review and edit the `spec.source` stanza if need be, and add or change the `ref` value as shown below. _Don't forget the comma after the URI!_
+![Image](3_9.png)
+
 There are a couple of ways to deploy this:
 #### CLI:
 ```
