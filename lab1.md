@@ -1,4 +1,7 @@
 # 1. Performing a build and deployment of an application (IDE)
+
+Before we begin, please import the php repo _(your specific branch!)_ locally into Eclipse.
+
 1. In Eclipse, open up the OpenShift View
 ![Image](4_1.png)
 
