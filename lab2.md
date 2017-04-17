@@ -51,4 +51,6 @@ In Eclipse, make changes to the `image.php` file like commenting out the blue bo
 
 Now refresh your browser window and you'll see the change.
 
+Continue in this fashion and make any changes you would like, and simply refresh the browser as you would normally to see the changes reflected as you continue to code.
+
 [Back to Main Page](index.md)
