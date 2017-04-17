@@ -1,4 +1,5 @@
-### Link to this Workshop Guide: http://bit.ly/2nT6rK0
+### Link to this Workshop Guide: 
+# http://bit.ly/2nT6rK0
 
 # Welcome to the Red Hat OpenShift Microservices Development Workshop
 
