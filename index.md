@@ -4,9 +4,9 @@ Today you'll get your feet wet with working with microservices applications in t
 
 We promise to do our best to keep the slide decks at a minimum and your hands on the keyboard as much as possible.
 
-### Agenda
+## Agenda
 
-#### Introduction
+### Introduction
 1. Introduction to OpenShift and the CDK (presentation)
 2. Discuss and Illustrate The Eclipse OpenShift Plugin (presentation)
 3. Discus and Illustrate The OpenShift oc CLI (presentation)
@@ -14,7 +14,7 @@ We promise to do our best to keep the slide decks at a minimum and your hands on
 5. Discuss the deployment concept (presentation)
 6. (Optional) CI/CD, webhooks, templates
 
-#### Digging Deeper
+### Digging Deeper
 7. Introduction of the application architecture (presentation)
 8. Discussion around the practical implications of a microservices architecture
 9. Deploy the app! ([Lab 3](lab3.md))
@@ -23,15 +23,15 @@ We promise to do our best to keep the slide decks at a minimum and your hands on
 
 # The Labs
 
-[Lab 1](lab1.md)
+[Lab 1](lab1.md) - Performing a Build and Deploy of an Application (IDE)
 
-[Lab 2](lab2.md)
+[Lab 2](lab2.md) - Performing a Build and Deploy of an Application (oc client)
 
-[Lab 3](lab3.md)
+[Lab 3](lab3.md) - Deploying The Microservices Application
 
-[Lab 4](lab4.md)
+[Lab 4](lab4.md) - Let's Get Creative
 
-[Lab 5](lab5.md)
+[Lab 5](lab5.md) - Clean Up
 
 
 ## Questions or Comments / Feedback?
