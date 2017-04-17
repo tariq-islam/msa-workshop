@@ -5,14 +5,16 @@ TODO:
 
 Today you'll get your feet wet with working with microservices applications in the OpenShift Container Platform.
 
+We promise to do our best to keep the slide decks at a minimum and your hands on the keyboard as much as possible.
+
 ### Agenda
 
 #### Introduction
-1. Introduction to OpenShift and the CDK
-2. Discuss and Illustrate The Eclipse OpenShift Plugin
-3. Discus and Illustrate The OpenShift oc CLI
+1. Introduction to OpenShift and the CDK (presentation)
+2. Discuss and Illustrate The Eclipse OpenShift Plugin (presentation)
+3. Discus and Illustrate The OpenShift oc CLI (presentation)
 4. Performing a build and deployment of an application ([Lab 1](lab1.md) & [Lab 2](lab2.md))
-5. Discuss the deployment concept
+5. Discuss the deployment concept (presentation)
 6. (Optional) CI/CD, webhooks, templates
 
 #### Digging Deeper
