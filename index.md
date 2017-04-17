@@ -34,14 +34,13 @@ Today you'll get your feet wet with working with microservices applications in t
 
 [Lab 5](lab5.md)
 
-[Lab 6](lab6.md)
 
-[Lab 7](lab7.md)
+## Questions or Comments / Feedback?
 
-[Lab 8](lab8.md)
+## Contact Us:
 
-[Lab 9](lab9.md)
+Tariq Islam - [tariq@redhat.com](mailto:tariq@redhat.com)
 
-[Lab 10](lab10.md)
+Jason Dudash - [dudash@redhat.com](mailto:dudash@redhat.com)
 
-[Lab 11](lab11.md)
+Michael Surbey - [msurbey@redhat.com](mailto:msurbey@redhat.com)
