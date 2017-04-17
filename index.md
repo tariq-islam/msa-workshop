@@ -1,3 +1,5 @@
+### Link to this Workshop Guide: http://bit.ly/2nT6rK0
+
 # Welcome to the Red Hat OpenShift Microservices Development Workshop
 
 Today you'll get your feet wet with Red Hat OpenShift and working with microservices applications in the OpenShift Container Platform.
