@@ -1,6 +1,6 @@
 # Let's Get Creative.
 
-In this lab you'll have the freedom to make whatever changes you wish through whichever mechanism you desire as we have covered today (Web UI, Eclipse, oc client). Don't forget to use rsync.
+In this lab you'll have the freedom to make whatever changes you wish through whichever mechanism you desire as we have covered today (Web UI, Eclipse, oc client). Don't forget to use rsync where applicable.
 
 If you break your deployment in any way, simply run the following command and re-process the template:
 ```markdown
@@ -23,7 +23,7 @@ oc process -f labs/lab3_ocp/templates/foodwineapp-template.json | oc create -f -
 * In the tooling of your choice, create a __new__ deployment of just the ui-service. The most important thing to remember here is to give it a new name, like `wineapp-ui-green`.
 * Edit your route. Change the service that your route points to from `wineapp-ui` to `wineapp-ui-green`. In the yaml file this is the `spec.to.name` value.
 
-![Image](4_6.png)
+![Image](img/4_6.png)
 
 * Now refresh your app in the browser. You will see your changes immediately.
 

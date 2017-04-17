@@ -1,7 +1,7 @@
 # Deploying The Microservices Application
 
 ### The application architecture
-![Image](msa-arch.png)
+![Image](img/msa-arch.png)
 
 ### The power of templates
 
@@ -14,11 +14,11 @@ Looking at your repo branch, you should have a template. Let's open that up (`fo
 
 1. Edit the template. Look (CTRL+F) for `openshift.example.com`. It'll be near the top under the `parameters` stanza. Change the `parameters.description.value` for `APPLICATION_DOMAIN` to be whatever subdomain your OpenShift instance is using. For the CDK (for our purposes anyway), this is `10.1.2.2.xip.io`.
 
-![Image](3_3.png)
+![Image](img/3_3.png)
 
 2. Confirm that the template points to your branch of the repository by looking at all three Build Configurations in the template. Find (CTRL+F) `BuildConfig`. For each one, review and edit the `spec.source` stanza if need be, and add or change the `ref` value as shown below. _Don't forget the comma after the URI!_
 
-![Image](3_9.png)
+![Image](img/3_9.png)
 
 ### Let's Deploy
 There are a couple of ways to deploy this:
@@ -37,13 +37,13 @@ That was easy...
 4. Navigate to `labs/lab3_ocp/templates/foodwineapp-template.json` and select it.
 5. Click `Finish`
 
-![Image](3_1.png)
+![Image](img/3_1.png)
 
 6. Back in the OpenShift Explorer view, right click on your project and select `New >> Application`
 7. In the pop up window, scroll down until you find the `wineapp` template that you just imported. Click `Next`.
 8. In the next window, select the `APPLICATION_DOMAIN` value and edit it. Change it to your OpenShift subdomain if not already done. For the CDK this is `10.1.2.2.nip.io`.
 
-![Image](3_2.png)
+![Image](img/3_2.png)
 
 9. Click `Finish`
 
@@ -53,13 +53,13 @@ That was easy...
 
 12. Explore your deployment either in the Web UI, Eclipse, or via the oc client. Find your comfort zone.
 
-![Image](3_8.png)
+![Image](img/3_8.png)
 
-![Image](3_4.png)
+![Image](img/3_4.png)
 
-![Image](3_7.png)
+![Image](img/3_7.png)
 
-![Image](3_6.png)
+![Image](img/3_6.png)
 
 
 [Back to Main Page](index.md)
