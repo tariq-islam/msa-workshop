@@ -3,7 +3,8 @@
 In this lab you'll have the freedom to make whatever changes you wish through whichever mechanism you desire as we have covered today (Web UI, Eclipse, oc client). Don't forget to use rsync.
 
 If you break your deployment in any way, simply run the following command and re-process the template:
-```
+```markdown
+
 oc delete all --all --now
 
 # Then from your local repo

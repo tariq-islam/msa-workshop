@@ -19,7 +19,8 @@ Looking at your repo branch, you should have a template. Let's open that up (`fo
 ### Let's Deploy
 There are a couple of ways to deploy this:
 #### CLI:
-```
+```markdown
+
 oc process -f labs/lab3_ocp/templates/foodwineapp-template.json | oc create -f -
 
 ```
