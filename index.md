@@ -1,6 +1,3 @@
-TODO:
-* deploy gogs with webhooks enabled
-
 # Welcome to the Microservices Development Workshop
 
 Today you'll get your feet wet with working with microservices applications in the OpenShift Container Platform.
