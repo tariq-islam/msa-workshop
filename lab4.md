@@ -43,3 +43,5 @@ oc delete pod <podname> --now
 ```
 
 Note the self-healing. Once the pod is back in place and started, note that your data is still preserved. Keep in mind that your Postgresql database is ephemeral so if you kill that, your data is gone.
+
+[Back to Main Page](index.md)
