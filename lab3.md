@@ -1,4 +1,8 @@
 # Deploying The Microservices Application
+
+### The application architecture
+![Image](msa-arch.png)
+
 ### The power of templates
 
 Before we begin, please import the microservices repo _(your specific branch!)_ locally into Eclipse.
